@@ -14,3 +14,9 @@ how to run php with parameters in cronjob
 | sd =0 | parameter sd |
 |&> /home/../cron.log |  |
 |2>&1 | |
+
+### command in terminal of cpanel
+![fixN1uCV0W](https://github.com/user-attachments/assets/129e315e-6cb5-4db3-89b9-0172144c6cec)
+
+### result in file cron.log
+![MmNX23kBX3](https://github.com/user-attachments/assets/8e12beb4-3609-47c5-bb85-d078801cfb6a)
